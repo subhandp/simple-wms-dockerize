@@ -1,0 +1,7 @@
+be-wms/node_modules
+be-wms/config/config.json
+be-wms/.env
+be-wms/package-lock.json
+be-wms/dist
+be-wms/tmp
+be-wms/yarn.lock
